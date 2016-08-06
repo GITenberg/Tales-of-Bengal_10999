@@ -1,0 +1,36 @@
+_repo: Tales-of-Bengal_10999
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Banerjea, S. B.
+    gutenberg_agent_id: '3785'
+    url: http://www.gutenberg.org/2009/agents/3785
+  editor:
+    agent_name: Skrine, Francis Henry
+    aliases:
+    - Skrine, F. H. (Francis Henry)
+    - Skrine, Francis Henry Bennett
+    birthdate: 1847
+    deathdate: 1933
+    gutenberg_agent_id: '34752'
+    url: http://www.gutenberg.org/2009/agents/34752
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Tales -- India -- Bengal'
+- GITenberg
+tableOfContents: The Pride of Kadampur -- The Rival Markets -- A Foul Conspiracy --
+  The Biter Bitten -- All's Well That Ends Well -- An Outrageous Swindle -- The Virtue
+  of Economy -- A Peacemaker -- A Brahman's Curse -- A Roland  for  His  Oliver --
+  Ramda -- A Rift in  the Lute -- Debenbra Babu in Trouble -- True to His Salt --
+  A Tame Rabbit -- Gobardhan's Triumph -- Patience is a Virtue.
+title: Tales of Bengal
+url: http://www.gutenberg.org/ebooks/10999
